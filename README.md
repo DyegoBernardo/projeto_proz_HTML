@@ -1,5 +1,5 @@
 # projeto_proz_HTML
-O nosso projeto será de um site de Pet Shop. O site vai conter 5 páginas.
+O nosso projeto será de um site Pet Shop. O site vai conter 5 páginas.
 
 1- Página Inicial
 Logo, Header, Menus (link), Footer, Endereço, Telefone, Copyright, Privacidade;
