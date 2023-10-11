@@ -1,9 +1,13 @@
 nav {
     display: flex;
     justify-content: space-between;
-    align-items: center 
+    align-items: center
+    
+   padding 0 2.4 rem
 }
 
-ul {
+id menu {
     display: flex;
+    list-style: none;
+    gap: 13rem;
 }
