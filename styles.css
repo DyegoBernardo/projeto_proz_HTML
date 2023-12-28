@@ -1,0 +1,40 @@
+nav {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center
+}
+
+#menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 12.8rem;
+
+    background-color:rgba(35, 177, 33, 0.491)
+}
+
+.footer {
+    display: flex;
+    flex-direction:row-reverse
+    justify-content: space-between;
+    align-items: 
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 3.2rem;
+    background-color:rgba(35, 177, 33, 0.491)
+}
+
+p {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 26px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+}
